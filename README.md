@@ -7,4 +7,4 @@
 
 - 🔭 I’m currently working as computer support
 - 🌱 I’m currently learning TYPESCRIPT, JAVASCRIPT, REACT
-- 📫 How to reach me: mailto:allysonlopes0@gmail.com
+- 📫 How to reach me: <a href="mailto:emersonpess011108@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
