@@ -7,5 +7,6 @@
 
 - 🔭 I’m currently working as IT support
 - 🌱 I’m currently learning TYPESCRIPT, JAVASCRIPT, REACT, HTML, CSS
+- 👯 I'm currently looking for a job as a front-end developer.
 - 📫 How to reach me: 
 <br/><br/><a href="mailto:emersonpess011108@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
