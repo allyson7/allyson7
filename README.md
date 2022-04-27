@@ -5,15 +5,15 @@
 **username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working as IT support
-- 🌱 I’m currently learning TYPESCRIPT, JAVASCRIPT, REACT, HTML, CSS
+- 🔭 I’m currently working as Service Desk Analyst
+- 🌱 I’m currently learning TYPESCRIPT, JAVASCRIPT, REACT, NEXTJS, HTML, CSS, SASS
 - 👯 I'm currently looking for a job as a front-end developer.
 - 📫 How to reach me: 
 <br/><br/><a href="mailto:allysonlopes0@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/allysonlopes/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://app.rocketseat.com.br/me/allyson-lopes"><img src="https://img.shields.io/badge/Rocketseat-Allyson%20Lopes-7159c1?style=for-the-badge&link=https://app.rocketseat.com.br/me/eliasgcf&labelColor=7159c1&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAABACAYAAABVy1Q8AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAKmSURBVHgB3ZqNcaMwEIWfb66AlOASfB24BKcDOog7MFdBfBWgqyDpgOsAXwX4Kog7eLcaiQkmgITNj+RvRkOwCdplpdXT4hUigOSTHApp+niSdpb2r/p7tVqdEBPiUEY3pbQ3hI4YeaA/JUJGDNwMcUbaGqGijbNG+rJFSNhorGvn+wHOpAgJMeilZtyHtDdphaczR4QEzdD64G18SQLfsCA0QyyHWV9u4SL32CAU7NAaAx3hfFHnOGx98eV9hQWQjndymGJVf8bc8L4k0EeKuZFOnzhssfQlwxLQT2QOpaRR47M7c+D46KG7xtxIp1tOQ4K54XCR6UuKJZjImRxTQDMvtIhMOr5/5fiUvHfe0Ej7rDLcnhctHWVVZ7xW0GOyxr3Q6KQKn0VxLI3WZO+y1Uv6aCdwuyIei19S3bnfIRoFW2BZTuLMD58LffZDS+83zhggOn0cWnqoPUt0zr4X+zj0DvOUpuLSc/+fk1VFZS6lHB9Vu3/C60V4egVNI2NyDken+mPD4GNHH1r36RLWfEO95Wn2oa/b1P53xyVEpQsbraOHM2uEjI3OoXbepaYLLrHxGgo/9zZXT9+O+8oxhZjgdWI4NL4LPypN+LWQriOzRazYTNVGFnwSaMOR3UqGmJb7oN+rjiyKaNGkaV+0QthjRr5jOK7txB9pf2EEpxaeYb9yZ39ZKkVM0K4x1ikVrTM06iC3cyKpfZ42Pwsetm8XXhEjNEK0i5KxyRy615sdAqOzpkCzKXOl6AsCo69I8gI3wTnUCv3VQHBzqCtCW7j5LSWmaCJUOiKjEAt0vz5UiAn2v6lWiAlHMlCIDXYrA4UYYXsyUIgRthc+FGLFOpQ8hDMVtQynEDu16CjEDj/rBAqPAM0vPhQeARsdhUeBsZWeHPwHRmxFUT+gWAsAAAAASUVORK5CYII=" alt="App Rocketseat"  height="28px"></a>
 <a href="https://linktr.ee/allyson_lopes"><img alt="Link Tree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
-<a href="https://resume.io/r/KKMVpOWUH"><img alt="Resume" src="https://img.shields.io/badge/Resume-ff79c6?style=for-the-badge&logo=https://cdn-user-icons.flaticon.com/5823/5823042/1651087008985.svg"/></a>
+<a href="https://resume.io/r/KKMVpOWUH"><img alt="Resume" src="https://img.shields.io/badge/Resume-f8f8f2?style=for-the-badge&logo=https://raw.githubusercontent.com/allyson7/allyson7/main/resumo.png"/></a>
 
 <div align="center">
   <a href="https://github.com/ManuCoutinho">
