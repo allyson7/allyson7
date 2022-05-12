@@ -5,7 +5,7 @@
 **username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working as Service Desk Analyst
+- 🔭 I’m a front-end developer
 - 🌱 I’m currently learning TYPESCRIPT, JAVASCRIPT, REACT, NEXTJS, HTML, CSS, SASS
 - 👯 I'm currently looking for a job as a front-end developer.
 - 📫 How to reach me: 
