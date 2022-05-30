@@ -7,7 +7,7 @@
 
 - 🔭 I’m a front-end developer;
 - 🌱 I have experience with JAVASCRIPT, TYPESCRIPT, REACT, NEXTJS, HTML, CSS, SASS, TAILWIND;
-- 👯 I'm currently looking for a job as a front-end developer;
+- 👯 I'm currently looking for new opportunities as a front-end developer;
 - 📫 How to reach me: 
 <br/><br/><a href="mailto:allysonlopes0@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/allysonlopes/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
