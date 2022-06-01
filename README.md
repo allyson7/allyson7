@@ -1,5 +1,5 @@
   
-### Hi there, I'm Allyson <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+### Hi there, I'm Allyson <img width="20px" height="20px" src="https://raw.githubusercontent.com/allyson7/allyson7/main/hi.gif" width="30px">
 
 <!--
 **username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
