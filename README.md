@@ -2,8 +2,13 @@
 ### Hi there, I'm Allyson <img width="20px" height="20px" src="https://raw.githubusercontent.com/allyson7/allyson7/main/hi.gif" width="30px">
 
 <!--
-**username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**allyson7/allyson7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=allyson7&theme=dracula&margin-w=5&no-frame=true&column=-1" alt="Allyson's GitHub trophy">
+</div>
+
 
 - 🔭 I’m a front-end developer;
 - 🌱 I have experience with JAVASCRIPT, TYPESCRIPT, REACT, NEXTJS, HTML, CSS, SASS, TAILWIND;
