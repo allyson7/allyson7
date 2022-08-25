@@ -31,4 +31,4 @@
 
 ## 
 
- ![Snake animation](https://github.com/allyson7/allyson7/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/allyson7/allyson7/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/allyson7/allyson7/output/github-contribution-grid-snake.svg#gh-light-mode-only)
