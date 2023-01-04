@@ -23,7 +23,6 @@
 ##
 
 <div align="center">
-<!--   <a href="https://github.com/ManuCoutinho"> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=allyson7&hide_border=true&repo=github-readme-stats&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allyson7&hide_border=true&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=allyson7&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
